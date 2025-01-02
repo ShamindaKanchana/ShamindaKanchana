@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **shamindakanchana@icloud.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16liNHZZbDiJqBQH2QDMwS4gYpTS86KFY/view?usp=drive_link](https://drive.google.com/file/d/16liNHZZbDiJqBQH2QDMwS4gYpTS86KFY/view?usp=drive_link)
+
 - ☁️ Google Cloud Skills Boost : [Cloud Skill Boost]([https://www.cloudskillsboost.google/public_profiles/e4102562-7db6-48e3-9c2c-cdcbcdb68419](https://www.cloudskillsboost.google/public_profiles/2b1d9807-50f2-4dfc-97e5-f78e0f60c821))
 
 <h3 align="left">Connect with me:</h3>
