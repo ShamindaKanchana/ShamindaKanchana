@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaminda Kanchana</h1>
-<h3 align="center">CS Undergraduate | Entry-level Data Analyst | Data Science Enthusiast</h3>
+<h3 align="center">CS Undergraduate | Data Science Enthusiast</h3>
 <img align="right" width="200" src="https://lms.nielit.gov.in/pluginfile.php/7190/course/overviewfiles/data-science-2.gif">
 
 - 📫 How to reach me **shamindakanchana@icloud.com**
