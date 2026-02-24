@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<img align="right" width="250" src="https://lms.nielit.gov.in/pluginfile.php/7190/course/overviewfiles/data-science-2.gif">
+<img align="right" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd1eWFobXBnandtM2JtOXdvajM5eGgzdXV1NWRsMTQyM25oMDBlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif">
 
 ---
 
