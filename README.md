@@ -1,8 +1,9 @@
-<h1 align="center">Hi, I'm Shaminda Kanchana</h1>
-<h3 align="center">Associate Software Engineer · BSc (Hons) Computer Science · AI & Full-Stack</h3>
+<h1 align="center">Hi 👋, I'm Shaminda Kanchana</h1>
 
 <p align="center">
-  Building scalable backends, AI-powered products, and interactive web experiences — from LangGraph chatbots to full-stack apps on Vercel &amp; cloud.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Associate+Software+Engineer+%40+Idasara+Digital;BSc+CS+Graduate+%C2%B7+University+of+Jaffna;Building+AI+agents+with+LangGraph+%26+Cohere;Full-stack+dev+%C2%B7+React+%C2%B7+Node.js+%C2%B7+Python;Passionate+about+scalable+backends+%26+deployment" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
