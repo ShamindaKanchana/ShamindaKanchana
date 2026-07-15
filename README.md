@@ -1,93 +1,83 @@
-<h1 align="center">Hi 👋, I'm Shaminda Kanchana</h1>
-<h3 align="center">CS Undergraduate | AI & Data Science Enthusiast | Exploring AI Agents & DevOps</h3>
+<h1 align="center">Hi, I'm Shaminda Kanchana</h1>
+<h3 align="center">Associate Software Engineer · BSc (Hons) Computer Science · AI & Full-Stack</h3>
 
-<!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=3b82f6&center=true&vCenter=true&lines=AI+%26+Data+Science+Enthusiast;Exploring+AI+Agents+%7C+LangChain+%7C+LlamaIndex;Interested+in+DevOps+%26+Automation;CS+Undergraduate;Always+Building+%26+Improving" alt="Typing SVG" />
-  </a>
+  Building scalable backends, AI-powered products, and interactive web experiences — from LangGraph chatbots to full-stack apps on Vercel &amp; cloud.
 </p>
 
-<img align="right" width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWd1eWFobXBnandtM2JtOXdvajM5eGgzdXV1NWRsMTQyM25oMDBlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif">
-
----
-
-### 🚀 About Me
-
-- 🎓 Computer Science Undergraduate  
-- 🤖 Interested in **AI, Data Science, and AI Agent Systems**  
-- ⚙️ Curious about **DevOps, Automation, and System Design**  
-- 🧠 Passionate about understanding systems beyond just writing code  
-
----
-
-### 🛠️ Practical Exposure
-
-- 🔧 **Ansible** – Worked with playbooks & automation workflows  
-- 🐳 **Docker** – Familiar with containers & environment consistency  
-- 🌐 **Nginx** – Basic reverse proxy & server configurations  
-- 🌍 **Django** – Backend structure, routing, and application logic  
-- 📱 **Flutter** – UI experiments & interface development  
-
----
-
-### 📫 How to reach me  
-**shamindakanchana@gmail.com**
-
-🌐 **Google Cloud Skills Boost** :  
-[Cloud Profile](https://www.cloudskillsboost.google/public_profiles/2b1d9807-50f2-4dfc-97e5-f78e0f60c821)
-
----
-
-### 🌐 Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/shaminda-kanchana-275371216/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.kaggle.com/shamindakanchana" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LlamaIndex-FFB000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-333333?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShamindaKanchana&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShamindaKanchana&theme=tokyonight" height="160"/>
+  <a href="https://shamindakanchana.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/shaminda-kanchana-275371216/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/ShamindaKanchana"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.kaggle.com/shamindakanchana"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+  <a href="mailto:msk60310910@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
 
-### 🔥 Most Used Languages
+### About me
+
+- 💼 **Associate Software Engineer** at [Idasara Digital](https://github.com/Idasara-Digital) — scalable backends, AI integration, cloud deployment & CI/CD
+- 🎓 **BSc (Hons) Computer Science**, University of Jaffna — Vavuniya Campus · Second Class Upper Division
+- 🤖 Previously **AI Intern** at DiproIT — biometric systems (ZK9500), Electron/Java backends, LLM report-generation research
+- 📄 Published **ICAS 2025** conference abstract on parallel Reed–Solomon codes for DNA data storage
+- 🌐 Portfolio → **[shamindakanchana.github.io/Portfolio](https://shamindakanchana.github.io/Portfolio/)**
+
+---
+
+### Featured projects
+
+| Project | Stack | Links |
+|---------|-------|-------|
+| **VAU-CS Academic Advisor** | React · Flask · LangGraph · Cohere · MySQL | [Live](https://vau-cs-academic-advisor.vercel.app) · [Code](https://github.com/ShamindaKanchana/vau-cs-academic-advisor) |
+| **Expense Tracker** | React · Node.js · Express · MySQL · JWT | [Live](https://expense-tracker-liard-nine.vercel.app) · [Code](https://github.com/ShamindaKanchana/Expense_tracker) |
+| **FunctionSpace3D** | React · Three.js · mathjs | [Live](https://function-space3-d.vercel.app) · [Code](https://github.com/ShamindaKanchana/FunctionSpace3D) |
+| **WordBot** | Python · Flask · Dictionary API | [Live](http://shaminda.pythonanywhere.com/) · [Code](https://github.com/ShamindaKanchana/WordBot) |
+| **Meridian Maps** | Interactive map framework | [Code](https://github.com/ShamindaKanchana/meridian-maps) |
+| **Physics Sandbox** | Newton's laws simulator | [Code](https://github.com/ShamindaKanchana/physics-sandbox) |
+
+---
+
+### Tech I work with
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cohere-39E5B6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+</p>
+
+---
+
+### GitHub stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamindaKanchana&layout=compact&theme=tokyonight&langs_count=8" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShamindaKanchana&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=ShamindaKanchana&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamindaKanchana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages"/>
 </p>
 
 ---
 
-### 📈 Activity Graph
-[![Shaminda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShamindaKanchana&bg_color=1e1e2e&color=ffffff&line=3b82f6&point=38bdf8&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShamindaKanchana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph"/>
+</p>
 
 ---
+
+<p align="center">
+  <a href="https://www.cloudskillsboost.google/public_profiles/2b1d9807-50f2-4dfc-97e5-f78e0f60c821">Google Cloud Skills Boost profile</a>
+  ·
+  <a href="https://drive.google.com/file/d/1BhJQ0FNqzgWUy9FIQhIRf5vrJYZqj7R6/view?usp=drive_link">Resume</a>
+</p>
